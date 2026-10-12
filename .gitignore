@@ -1,0 +1,10 @@
+node_modules/
+.vitepress/cache/
+.vitepress/dist/
+.vitepress/.vitepress/
+.env
+.env.*
+.starsunnotes-backups/
+内部工具/
+vitepress-dev.pid
+*.log
